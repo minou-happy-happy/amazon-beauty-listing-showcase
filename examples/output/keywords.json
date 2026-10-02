@@ -1,0 +1,446 @@
+{
+  "product": "Hyaluronic Acid Serum",
+  "rows_read": 53,
+  "hero": [
+    {
+      "keyword": "hyaluronic acid serum",
+      "volume": 182000,
+      "ranking_competitors": 5,
+      "title_density": 62,
+      "cerebro_iq": 826,
+      "click_share": 38.2,
+      "score": 97.9,
+      "group_volume": 182000,
+      "variants": []
+    },
+    {
+      "keyword": "hyaluronic acid serum for face",
+      "volume": 96000,
+      "ranking_competitors": 5,
+      "title_density": 48,
+      "cerebro_iq": 1493,
+      "click_share": 20.2,
+      "score": 97.8,
+      "group_volume": 96000,
+      "variants": []
+    },
+    {
+      "keyword": "pure hyaluronic acid serum",
+      "volume": 8800,
+      "ranking_competitors": 5,
+      "title_density": 7,
+      "cerebro_iq": 37,
+      "click_share": 26.1,
+      "score": 95.1,
+      "group_volume": 8800,
+      "variants": []
+    },
+    {
+      "keyword": "hyaluronic acid serum for skin",
+      "volume": 5600,
+      "ranking_competitors": 4,
+      "title_density": 4,
+      "cerebro_iq": 36,
+      "click_share": 7.3,
+      "score": 91.7,
+      "group_volume": 5600,
+      "variants": []
+    },
+    {
+      "keyword": "hyaluronic acid serum for dry skin",
+      "volume": 7400,
+      "ranking_competitors": 4,
+      "title_density": 3,
+      "cerebro_iq": 18,
+      "click_share": 9.1,
+      "score": 88.6,
+      "group_volume": 7400,
+      "variants": []
+    },
+    {
+      "keyword": "hyaluronic acid",
+      "volume": 210000,
+      "ranking_competitors": 5,
+      "title_density": 80,
+      "cerebro_iq": 884,
+      "click_share": 25.8,
+      "score": 84.3,
+      "group_volume": 210000,
+      "variants": []
+    },
+    {
+      "keyword": "hyaluronic acid and vitamin b5",
+      "volume": 2600,
+      "ranking_competitors": 3,
+      "title_density": 1,
+      "cerebro_iq": 101,
+      "click_share": 31.5,
+      "score": 77.2,
+      "group_volume": 2600,
+      "variants": []
+    },
+    {
+      "keyword": "face serum for dry skin",
+      "volume": 8200,
+      "ranking_competitors": 4,
+      "title_density": 5,
+      "cerebro_iq": 50,
+      "click_share": 37.8,
+      "score": 74.9,
+      "group_volume": 8200,
+      "variants": []
+    },
+    {
+      "keyword": "hydrating face serum",
+      "volume": 33000,
+      "ranking_competitors": 5,
+      "title_density": 18,
+      "cerebro_iq": 80,
+      "click_share": 12.2,
+      "score": 74.4,
+      "group_volume": 33000,
+      "variants": []
+    },
+    {
+      "keyword": "face serum",
+      "volume": 140000,
+      "ranking_competitors": 4,
+      "title_density": 70,
+      "cerebro_iq": 362,
+      "click_share": 25.5,
+      "score": 73.2,
+      "group_volume": 185000,
+      "variants": [
+        "serum for face"
+      ]
+    }
+  ],
+  "secondary": [
+    {
+      "keyword": "moisturizing serum for face",
+      "volume": 6900,
+      "ranking_competitors": 3,
+      "title_density": 5,
+      "cerebro_iq": 25,
+      "click_share": 24.2,
+      "score": 70.3,
+      "group_volume": 6900,
+      "variants": []
+    },
+    {
+      "keyword": "serum for dry skin",
+      "volume": 21000,
+      "ranking_competitors": 4,
+      "title_density": 9,
+      "cerebro_iq": 125,
+      "click_share": 7.9,
+      "score": 65.9,
+      "group_volume": 21000,
+      "variants": []
+    },
+    {
+      "keyword": "anti aging serum",
+      "volume": 98000,
+      "ranking_competitors": 4,
+      "title_density": 45,
+      "cerebro_iq": 452,
+      "click_share": 8.2,
+      "score": 65.9,
+      "flag": "appearance claim - phrase as 'the look of', never as a physiological effect",
+      "group_volume": 98000,
+      "variants": []
+    },
+    {
+      "keyword": "lightweight face serum",
+      "volume": 1900,
+      "ranking_competitors": 2,
+      "title_density": 1,
+      "cerebro_iq": 5,
+      "click_share": 24.0,
+      "score": 64.2,
+      "group_volume": 1900,
+      "variants": []
+    },
+    {
+      "keyword": "facial serum for women",
+      "volume": 18500,
+      "ranking_competitors": 3,
+      "title_density": 6,
+      "cerebro_iq": 37,
+      "click_share": 17.0,
+      "score": 63.5,
+      "group_volume": 18500,
+      "variants": []
+    },
+    {
+      "keyword": "hydrating serum for sensitive skin",
+      "volume": 5200,
+      "ranking_competitors": 4,
+      "title_density": 2,
+      "cerebro_iq": 69,
+      "click_share": 5.0,
+      "score": 63.4,
+      "group_volume": 5200,
+      "variants": []
+    },
+    {
+      "keyword": "hydrating serum",
+      "volume": 61000,
+      "ranking_competitors": 5,
+      "title_density": 30,
+      "cerebro_iq": 290,
+      "click_share": 24.6,
+      "score": 62.4,
+      "group_volume": 61000,
+      "variants": []
+    },
+    {
+      "keyword": "skin care serum",
+      "volume": 12500,
+      "ranking_competitors": 3,
+      "title_density": 8,
+      "cerebro_iq": 46,
+      "click_share": 18.8,
+      "score": 62.3,
+      "group_volume": 12500,
+      "variants": []
+    },
+    {
+      "keyword": "plumping serum",
+      "volume": 9800,
+      "ranking_competitors": 4,
+      "title_density": 4,
+      "cerebro_iq": 21,
+      "click_share": 15.8,
+      "score": 59.5,
+      "group_volume": 9800,
+      "variants": []
+    },
+    {
+      "keyword": "glass skin serum",
+      "volume": 7700,
+      "ranking_competitors": 2,
+      "title_density": 3,
+      "cerebro_iq": 13,
+      "click_share": 15.8,
+      "score": 58.7,
+      "group_volume": 7700,
+      "variants": []
+    },
+    {
+      "keyword": "daily face serum",
+      "volume": 1500,
+      "ranking_competitors": 2,
+      "title_density": 0,
+      "cerebro_iq": 3,
+      "click_share": 39.6,
+      "score": 58.4,
+      "group_volume": 1500,
+      "variants": []
+    },
+    {
+      "keyword": "hydration serum",
+      "volume": 6600,
+      "ranking_competitors": 4,
+      "title_density": 3,
+      "cerebro_iq": 13,
+      "click_share": 5.2,
+      "score": 58.2,
+      "group_volume": 6600,
+      "variants": []
+    },
+    {
+      "keyword": "dewy skin serum",
+      "volume": 3100,
+      "ranking_competitors": 2,
+      "title_density": 1,
+      "cerebro_iq": 29,
+      "click_share": 7.9,
+      "score": 55.8,
+      "group_volume": 3100,
+      "variants": []
+    },
+    {
+      "keyword": "aloe vera face serum",
+      "volume": 2400,
+      "ranking_competitors": 1,
+      "title_density": 2,
+      "cerebro_iq": 7,
+      "click_share": 17.4,
+      "score": 47.9,
+      "group_volume": 2400,
+      "variants": []
+    },
+    {
+      "keyword": "serum",
+      "volume": 250000,
+      "ranking_competitors": 3,
+      "title_density": 90,
+      "cerebro_iq": 1000,
+      "click_share": 26.3,
+      "score": 41.9,
+      "group_volume": 250000,
+      "variants": []
+    },
+    {
+      "keyword": "b5 serum",
+      "volume": 4300,
+      "ranking_competitors": 3,
+      "title_density": 2,
+      "cerebro_iq": 9,
+      "click_share": 17.0,
+      "score": 37.8,
+      "group_volume": 4300,
+      "variants": []
+    }
+  ],
+  "backend": [
+    {
+      "keyword": "serum for face",
+      "volume": 45000,
+      "note": "word-order variant of 'face serum'"
+    },
+    {
+      "keyword": "acne serum",
+      "volume": 27000,
+      "note": "misspelling or abbreviation ('acne') - backend only"
+    },
+    {
+      "keyword": "hyaluronic serum",
+      "volume": 22000,
+      "note": "covered by a higher-ranked phrase"
+    },
+    {
+      "keyword": "serum for acne scars",
+      "volume": 15000,
+      "note": "misspelling or abbreviation ('acne') - backend only"
+    },
+    {
+      "keyword": "ácido hialurónico serum",
+      "volume": 6100,
+      "note": "other language - backend only"
+    },
+    {
+      "keyword": "serum acido hialuronico",
+      "volume": 4800,
+      "note": "other language - backend only"
+    },
+    {
+      "keyword": "suero facial",
+      "volume": 3900,
+      "note": "other language - backend only"
+    },
+    {
+      "keyword": "hyluronic acid serum",
+      "volume": 1800,
+      "note": "misspelling or abbreviation ('hyluronic') - backend only"
+    }
+  ],
+  "learned_brand_tokens": [],
+  "excluded_summary": {
+    "competitor brand": 4,
+    "names an ingredient not in this formula": 6,
+    "superlative / concentration / dupe query": 2,
+    "no overlap with product name, category or formula": 1,
+    "different product type": 4,
+    "own brand term (already indexed via brand field)": 1,
+    "volume below 200": 1
+  },
+  "excluded": [
+    {
+      "keyword": "the ordinary hyaluronic acid",
+      "volume": 74000,
+      "reason": "competitor brand: the ordinary"
+    },
+    {
+      "keyword": "cerave hyaluronic acid serum",
+      "volume": 52000,
+      "reason": "competitor brand: cerave"
+    },
+    {
+      "keyword": "neutrogena hydro boost serum",
+      "volume": 31000,
+      "reason": "competitor brand: neutrogena"
+    },
+    {
+      "keyword": "vitamin c serum for face",
+      "volume": 165000,
+      "reason": "names an ingredient not in this formula: vitamin c"
+    },
+    {
+      "keyword": "retinol serum",
+      "volume": 120000,
+      "reason": "names an ingredient not in this formula: retinol"
+    },
+    {
+      "keyword": "niacinamide serum",
+      "volume": 88000,
+      "reason": "names an ingredient not in this formula: niacinamide"
+    },
+    {
+      "keyword": "hyaluronic acid and vitamin c serum",
+      "volume": 14000,
+      "reason": "names an ingredient not in this formula: vitamin c"
+    },
+    {
+      "keyword": "retinol and hyaluronic acid serum",
+      "volume": 9100,
+      "reason": "names an ingredient not in this formula: retinol"
+    },
+    {
+      "keyword": "best hyaluronic acid serum",
+      "volume": 11000,
+      "reason": "superlative / concentration / dupe query"
+    },
+    {
+      "keyword": "hyaluronic acid serum 2%",
+      "volume": 2700,
+      "reason": "superlative / concentration / dupe query"
+    },
+    {
+      "keyword": "the ordinary dupe serum",
+      "volume": 1300,
+      "reason": "competitor brand: the ordinary"
+    },
+    {
+      "keyword": "korean skin care",
+      "volume": 190000,
+      "reason": "no overlap with product name, category or formula"
+    },
+    {
+      "keyword": "face moisturizer",
+      "volume": 230000,
+      "reason": "different product type: moisturizer"
+    },
+    {
+      "keyword": "collagen serum for face",
+      "volume": 41000,
+      "reason": "names an ingredient not in this formula: collagen"
+    },
+    {
+      "keyword": "hyaluronic acid moisturizer",
+      "volume": 38000,
+      "reason": "different product type: moisturizer"
+    },
+    {
+      "keyword": "eye cream",
+      "volume": 175000,
+      "reason": "different product type: cream"
+    },
+    {
+      "keyword": "makeup primer",
+      "volume": 64000,
+      "reason": "different product type: primer"
+    },
+    {
+      "keyword": "skincare brand hyaluronic acid serum",
+      "volume": 900,
+      "reason": "own brand term (already indexed via brand field)"
+    },
+    {
+      "keyword": "travel size serum",
+      "volume": 150,
+      "reason": "volume below 200"
+    }
+  ]
+}
