@@ -58,4 +58,4 @@ Title, item highlights, bullet and backend limits (backend in bytes); title spec
 
 ## About
 
-Built by YM Pan. Brand and new-product-development background in beauty and consumer goods across the US, French and Chinese markets, with a focus on Amazon.
+Built by YM Pan. Brand and new-product-development background in beauty and consumer goods across the US, French and Chinese markets, with a focus on Amazon. Contact me if you would like a walkthrough (https://www.linkedin.com/in/panyangmin)
